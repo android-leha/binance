@@ -1,4 +1,4 @@
-# Binance Challange
+# Binance Challenge
 
 ## Questions:
 1. Print the top 5 symbols with quote asset BTC and the highest volume over the last 24 hours in descending order.
