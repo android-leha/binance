@@ -12,3 +12,10 @@
 
 1. Each question defined as separate file: q1.py, q2.py etc...
 2. Solution was done with python 3.9
+
+## How to use
+
+To run solution, run following command
+> python3 q{NUMBER}.py
+
+where {NUMBER} is number of question
